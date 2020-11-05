@@ -14,7 +14,10 @@ body {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
-    clear: both;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    overflow: hidden;
 }
 
 .header h1 {
@@ -106,10 +109,11 @@ a {
 .article {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    overflow: hidden
 }
 
 .content img {

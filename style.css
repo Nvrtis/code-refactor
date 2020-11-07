@@ -53,6 +53,16 @@ a {
     float: right;
 }
 
+a:hover {
+    color: yellow;
+    font-size: larger;
+}
+
+a:focus {
+    color: yellow;
+    font-size: larger;
+}
+
 .hero {
     height: 800px;
     width: 100%;

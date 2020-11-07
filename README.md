@@ -17,3 +17,5 @@ html file:
 css document:
 -cleaned up and fixed classes and ids, so that we dont have unecessary code
 -added hover and focus on buttons, to help with accessibility
+-added overflow for the document, to help when changing the size of window. 
+will not fix the problem, since i havent learned media query

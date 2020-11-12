@@ -1,5 +1,6 @@
 # code-refactor
-First Homework assignment
+![alt text](Assets\brand-awareness.png)
+marketing web accessible
 
 deployment:
 -deployed in github

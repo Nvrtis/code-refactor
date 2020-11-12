@@ -1,5 +1,5 @@
-# code-refactor
-![alt text](Assets\brand-awareness.png)
+# Marketing Webaccessible
+![Marketing image](Assets\digital-marketing-meeting.jpg)
 marketing web accessible
 
 deployment:

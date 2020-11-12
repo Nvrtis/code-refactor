@@ -1,6 +1,6 @@
 # Marketing Webaccessible
 ![Marketing image](Assets/digital-marketing-meeting.jpg)
-marketing web accessible
+[marketing web accessible](https://nvrtis.github.io/marketing_webaccessible/)
 
 deployment:
 -deployed in github

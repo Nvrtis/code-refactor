@@ -1,5 +1,5 @@
 # Marketing Webaccessible
-![Marketing image](Assets\digital-marketing-meeting.jpg)
+![Marketing image](Assets/digital-marketing-meeting.jpg)
 marketing web accessible
 
 deployment:
